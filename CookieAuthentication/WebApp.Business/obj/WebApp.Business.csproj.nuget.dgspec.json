@@ -1,0 +1,186 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\DEV\\SideProject\\CookieAuthentication\\CookieAuthentication\\WebApp.Business\\WebApp.Business.csproj": {}
+  },
+  "projects": {
+    "E:\\DEV\\SideProject\\CookieAuthentication\\CookieAuthentication\\WebApp.Business\\WebApp.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\DEV\\SideProject\\CookieAuthentication\\CookieAuthentication\\WebApp.Business\\WebApp.Business.csproj",
+        "projectName": "WebApp.Business",
+        "projectPath": "E:\\DEV\\SideProject\\CookieAuthentication\\CookieAuthentication\\WebApp.Business\\WebApp.Business.csproj",
+        "packagesPath": "C:\\Users\\Cem Fatih KAYA\\.nuget\\packages\\",
+        "outputPath": "E:\\DEV\\SideProject\\CookieAuthentication\\CookieAuthentication\\WebApp.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Cem Fatih KAYA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\DEV\\SideProject\\CookieAuthentication\\CookieAuthentication\\WebApp.Core\\WebApp.Core.csproj": {
+                "projectPath": "E:\\DEV\\SideProject\\CookieAuthentication\\CookieAuthentication\\WebApp.Core\\WebApp.Core.csproj"
+              },
+              "E:\\DEV\\SideProject\\CookieAuthentication\\CookieAuthentication\\WebApp.Model\\WebApp.Model.csproj": {
+                "projectPath": "E:\\DEV\\SideProject\\CookieAuthentication\\CookieAuthentication\\WebApp.Model\\WebApp.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\DEV\\SideProject\\CookieAuthentication\\CookieAuthentication\\WebApp.Core\\WebApp.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\DEV\\SideProject\\CookieAuthentication\\CookieAuthentication\\WebApp.Core\\WebApp.Core.csproj",
+        "projectName": "WebApp.Core",
+        "projectPath": "E:\\DEV\\SideProject\\CookieAuthentication\\CookieAuthentication\\WebApp.Core\\WebApp.Core.csproj",
+        "packagesPath": "C:\\Users\\Cem Fatih KAYA\\.nuget\\packages\\",
+        "outputPath": "E:\\DEV\\SideProject\\CookieAuthentication\\CookieAuthentication\\WebApp.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Cem Fatih KAYA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\DEV\\SideProject\\CookieAuthentication\\CookieAuthentication\\WebApp.Model\\WebApp.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\DEV\\SideProject\\CookieAuthentication\\CookieAuthentication\\WebApp.Model\\WebApp.Model.csproj",
+        "projectName": "WebApp.Model",
+        "projectPath": "E:\\DEV\\SideProject\\CookieAuthentication\\CookieAuthentication\\WebApp.Model\\WebApp.Model.csproj",
+        "packagesPath": "C:\\Users\\Cem Fatih KAYA\\.nuget\\packages\\",
+        "outputPath": "E:\\DEV\\SideProject\\CookieAuthentication\\CookieAuthentication\\WebApp.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Cem Fatih KAYA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

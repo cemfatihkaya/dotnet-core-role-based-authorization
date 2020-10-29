@@ -1,0 +1,9 @@
+E:\DEV\SideProject\CookieAuthentication\CookieAuthentication\WebApp.Model\bin\Debug\netcoreapp3.1\WebApp.Model.deps.json
+E:\DEV\SideProject\CookieAuthentication\CookieAuthentication\WebApp.Model\bin\Debug\netcoreapp3.1\WebApp.Model.dll
+E:\DEV\SideProject\CookieAuthentication\CookieAuthentication\WebApp.Model\obj\Debug\netcoreapp3.1\WebApp.Model.csprojAssemblyReference.cache
+E:\DEV\SideProject\CookieAuthentication\CookieAuthentication\WebApp.Model\obj\Debug\netcoreapp3.1\WebApp.Model.AssemblyInfoInputs.cache
+E:\DEV\SideProject\CookieAuthentication\CookieAuthentication\WebApp.Model\obj\Debug\netcoreapp3.1\WebApp.Model.AssemblyInfo.cs
+E:\DEV\SideProject\CookieAuthentication\CookieAuthentication\WebApp.Model\bin\Debug\netcoreapp3.1\WebApp.Model.pdb
+E:\DEV\SideProject\CookieAuthentication\CookieAuthentication\WebApp.Model\obj\Debug\netcoreapp3.1\WebApp.Model.csproj.CoreCompileInputs.cache
+E:\DEV\SideProject\CookieAuthentication\CookieAuthentication\WebApp.Model\obj\Debug\netcoreapp3.1\WebApp.Model.dll
+E:\DEV\SideProject\CookieAuthentication\CookieAuthentication\WebApp.Model\obj\Debug\netcoreapp3.1\WebApp.Model.pdb
